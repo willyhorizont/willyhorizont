@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willyhorizont&langs_count=20&disable_animations=true&layout=compact&size_weight=0.5&count_weight=0.5&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Programming Languages](https://github.com/willyhorizont/willyhorizont.github.io/blob/main/github-programming-languages.svg)
