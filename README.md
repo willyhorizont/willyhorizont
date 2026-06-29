@@ -1,1 +1,1 @@
-![GitHub Programming Languages Card](https://github.com/willyhorizont/willyhorizont.github.io/blob/main/GithubProgrammingLanguagesCard.png)
+![GitHub Programming Languages Card](https://github.com/willyhorizont/cross-language-programming-concepts/blob/main/github-programming-languages-card.png)
